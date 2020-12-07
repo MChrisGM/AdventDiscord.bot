@@ -1,1 +1,1 @@
-# AdventDiscord.bot
+# Advent Of Code Discord Bot
